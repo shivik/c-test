@@ -1,0 +1,19 @@
+Fill in this chart as per the column headings
+
+decimal Hex triplet
+192 255 238  #C0FFEE
+126 164 112  #7EA470
+186 187 30   #BABB1E
+208 13 30    #D00D1E
+15 245 231   #0FF5E7
+
+
+
+Fill in this chart as per the column headings
+
+colour to match the RGB value
+HEX         RED     GREEN    BLUE
+#3A26F2      58       38      242
+#844D42      132      77       66
+#094353       9       67       83
+#7D6CB7      125     108      183
